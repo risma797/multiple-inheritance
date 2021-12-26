@@ -13,4 +13,4 @@ laptop = My_Laptop()
 laptop.spesifikasi()
 laptop.kegunaan()
 
-#multiple_inheritence
+#Multiple_inheritence
